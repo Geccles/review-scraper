@@ -4,6 +4,8 @@ import json
 
 from app_store_scraper import AppStore
 
+# add input for which app and id
+
 # compass-real-estate-homes/id692766504
 compass = AppStore(country='us', app_name='compass-real-estate-homes', app_id = '692766504')
 
